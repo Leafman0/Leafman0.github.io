@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "post-primeiro-dia",
+        },{id: "post-experiencia-do-primeiro-dia",
         
-          title: "Primeiro dia",
+          title: "Experiencia do primeiro dia",
         
-        description: "",
+        description: "Primeiro dia do bootcamp do FabLab da Casa Firjan",
         section: "Posts",
         handler: () => {
           
